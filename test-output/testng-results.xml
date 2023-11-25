@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-28T19:50:58 CEST" name="Suite" finished-at="2023-10-28T19:51:09 CEST" duration-ms="10958">
+    <groups>
+    </groups>
+    <test started-at="2023-10-28T19:50:58 CEST" name="Test" finished-at="2023-10-28T19:51:09 CEST" duration-ms="10958">
+      <class name="testCases.FileUploadDemo2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.FileUploadDemo2@5a45133e]" started-at="2023-10-28T19:50:58 CEST" name="setup" finished-at="2023-10-28T19:51:05 CEST" duration-ms="7028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="robotTest()[pri:0, instance:testCases.FileUploadDemo2@5a45133e]" started-at="2023-10-28T19:51:05 CEST" name="robotTest" finished-at="2023-10-28T19:51:09 CEST" duration-ms="3626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- robotTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.FileUploadDemo2@5a45133e]" started-at="2023-10-28T19:51:09 CEST" name="tearDown" finished-at="2023-10-28T19:51:09 CEST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.FileUploadDemo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
